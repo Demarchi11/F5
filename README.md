@@ -14,7 +14,7 @@ Principais funcionalidades da F5 Studios:
 
 💳 Método de Pagamento: Oferece opções seguras para realizar a compra dos conteúdos para quem não tem acesso gratuito.
 
-👤 Dados do Usuário Logado: Permite o acompanhamento do histórico, preferências e informações pessoais para uma experiência personalizada.
+👤 Dados do Usuário Logado: No nosso projeto, será para organização, administração e melhoria do desenvlvimento da quantidade de aparelhos logados.
 
 Na F5 Studios, acreditamos que o cinema é uma ferramenta poderosa para o aprendizado e estamos comprometidos em apoiar a educação pública enquanto oferecemos um serviço de qualidade para todos.
 
