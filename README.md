@@ -4,7 +4,7 @@ A F5 Studios é uma plataforma de streaming dedicada a oferecer filmes educativo
 
 Para usuários que não fazem parte das escolas públicas, o acesso ao conteúdo está disponível mediante pagamento 💳, garantindo a sustentabilidade da plataforma e o investimento contínuo em novos filmes e melhorias.
 
-Principais funcionalidades da F5 Studios:
+### Principais funcionalidades da F5 Studios: 
 
 🔑 Login: Permite que os usuários criem uma conta e acessem seus conteúdos personalizados.
 
