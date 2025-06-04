@@ -1,18 +1,20 @@
-# F5
-🎬 Bem-vindo ao projeto de um e-commerce para streaming de filmes, a F5 Studios! 🍿✨
-Esta aplicação simula uma plataforma digital onde os usuários podem navegar por um catálogo de filmes, cadastrar aparelhos e assistir conteúdos por streaming, tudo em um só lugar.
+# Apresentação F5 Studios 🎬✨
 
-🚀 Funcionalidades principais:
+A F5 Studios é uma plataforma de streaming dedicada a oferecer filmes educativos e culturais para enriquecer o aprendizado de estudantes de escolas públicas 🎓📚. Nosso objetivo é democratizar o acesso ao conhecimento por meio do cinema, disponibilizando gratuitamente um catálogo especialmente selecionado para apoiar a educação pública.
 
+Para usuários que não fazem parte das escolas públicas, o acesso ao conteúdo está disponível mediante pagamento 💳, garantindo a sustentabilidade da plataforma e o investimento contínuo em novos filmes e melhorias.
 
-👤 Cadastro e login de usuários
+Principais funcionalidades da F5 Studios:
 
-📱 Limite de até 3 dispositivos por conta
+🔑 Login: Permite que os usuários criem uma conta e acessem seus conteúdos personalizados.
 
-🎞️ Navegação por catálogo de filmes
+🎥 Lista de Produtos: Exibe o catálogo de filmes disponíveis para streaming.
 
-💳 Compra de planos de assinatura
+🛒 Carrinho de Compras: Facilita a seleção e o gerenciamento dos filmes que o usuário deseja adquirir.
 
-▶️ Player de vídeo integrado para streaming
+💳 Método de Pagamento: Oferece opções seguras para realizar a compra dos conteúdos para quem não tem acesso gratuito.
 
-📱💻 Interface intuitiva e responsiva
+👤 Dados do Usuário Logado: Permite o acompanhamento do histórico, preferências e informações pessoais para uma experiência personalizada.
+
+Na F5 Studios, acreditamos que o cinema é uma ferramenta poderosa para o aprendizado e estamos comprometidos em apoiar a educação pública enquanto oferecemos um serviço de qualidade para todos.
+
